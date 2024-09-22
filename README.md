@@ -1,5 +1,5 @@
-# glorianwachukwu
-#About Me
+# About me  - Gloria Nwachukwu
+
 👋 Hello, I'm Gloria Nwachukwu!
 Welcome to my GitHub profile! I'm currently pursuing a Master's degree in Information Technology at Rensselaer Polytechnic Institute (RPI) with a focus on Data Science & Analytics. I have a passion for data analysis, machine learning, and biotechnology.
 
